@@ -121,13 +121,13 @@
 
 ### Files in repository
 
-* *Preproccesing.ipynb*: 
+* *Preproccesing Notebook.ipynb*: 
   * Takes *.csv* file via google drive and uploads into dataframe, gets rid of missing values and handles "unknown category" in multiple features.
 
-* *Encoding_and_Visualization.ipynb*: 
+* *Encoding and Visualization Notebook.ipynb*: 
   * Notebook that provides code for one-hot encoding along with multiple visualizations/plotting of attributes to help build intuition.
 
-* *Hierarchical_Clustering.ipynb*: 
+* *Hierarchical Clustering Notebook.ipynb*: 
   * Instantiates the Hierarchical/Agglomerative clustering techniques and runs on data, along with PCA for dimensionality reduction to plot results.
 
 ### Software Setup
