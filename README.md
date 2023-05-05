@@ -94,6 +94,8 @@
     
 ### Conclusions
 
+* Our final output seems to have the majority of patients fall into one of two clusters (Figure 5). Since we used PCA to plot our results, its difficult to properly interpret the differences between the clusters. In spite of this, there are two easily distinguishable clusters each with what seems to be their own sub-group, making it seem as if each large bundle is composed of two similar yet distinct clusters.
+
 * Given that our Silhouette score was relatively low, there is still room for improvement to tweak the algorithm and/or the data preprocessing. There is also more to be potentially discovered, given that we didn't use the entire data set.
   
 * Although our algorithm yielded a interpretable result, the *entire* set of data was not able to be run due to computational issues. This may require other methods/tools if deciding to continue with this algorithm in particular or it is also feasible to switch to another technique if computational tools aren't readily available. 
