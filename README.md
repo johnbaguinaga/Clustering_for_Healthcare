@@ -1,3 +1,8 @@
+<p align="center">
+ <img src="https://github.com/johnbaguinaga/Clustering_for_Healthcare/assets/106455858/5b071942-2901-4940-b1a6-db5e38a605f5" width="650" height="185">
+</p>
+  
+  
 # Patient Clustering for Healthcare
 
 * This repository holds my attempt apply hierarchical clustering (Agglomeraitve) to Hospital patient discharge data directly from New York's Statewide Planning and Research Cooperative System (SPARCS).
