@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/johnbaguinaga/Clustering_for_Healthcare/assets/106455858/5b071942-2901-4940-b1a6-db5e38a605f5" width="650" height="185">
+ <img src="https://github.com/johnbaguinaga/Clustering_for_Healthcare/assets/106455858/5b071942-2901-4940-b1a6-db5e38a605f5" width="555" height="180">
 </p>
   
   
