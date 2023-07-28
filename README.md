@@ -1,4 +1,4 @@
-# Patient Clustering for Healthcare Efficiency
+# Patient Clustering for Healthcare
 
 * This repository holds my attempt apply hierarchical clustering (Agglomeraitve) to Hospital patient discharge data directly from New York's Statewide Planning and Research Cooperative System (SPARCS).
 
